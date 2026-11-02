@@ -1,0 +1,9 @@
+PORTFOLIO SIMONE CECCAROLI — VERSIONE AGGIORNATA
+
+Apri index.html per vedere il sito sul computer.
+Per pubblicare su GitHub Pages, carica index.html, logo-sc.png e tutta la cartella images nella radice del repository.
+
+Foto di lavoro: lo studio di Fischio Finale, un set serale e una telecamera a bordo campo.
+La foto di Simone con la telecamera si trova nella sezione Chi sono.
+Verifica il diritto di pubblicare eventuali materiali provenienti da produzioni di terzi.
+I link PayPal e Satispay non sono stati inventati.
